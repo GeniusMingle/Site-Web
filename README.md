@@ -1,2 +1,3 @@
 # GeniusMingle Portfolio : 
-### Lien : https://geniusmingle.github.io/Site-Web/
+### GitHub Pages : https://geniusmingle.github.io/Site-Web/
+### Production : https://geniusmingle.vercel.app/
